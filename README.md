@@ -1,2 +1,2 @@
 # dicoding
-Learning web on decoding
+Learning web on dicoding
