@@ -1,2 +1,3 @@
 # dicoding
-Learning web on dicoding
+Learning web development on dicoding
+
