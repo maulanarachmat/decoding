@@ -9,11 +9,15 @@
 # # True
 
 def is_shifted(a,b):
+    # check if the strings have same length
     if len(a) != len(b):
         return False
+    
+    # check one string with one letter
     if len(a) <2:
         return a == b
     
+    # check shifted strings
     shift_clock = ""
     shift_anticlock = ""
     l = len(b)
